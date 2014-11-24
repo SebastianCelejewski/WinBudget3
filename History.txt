@@ -1,0 +1,42 @@
+Historia:
+
+3.0 (2004-02-29)
+- napisany od zera
+- kompletnie nowa koncepcja: klasa Analizator i klasa DataModule
+- ca³oœæ rozbita na bardzo du¿¹ iloœæ klas, w szczególnoœci autonomiczne DataGridy
+- nowy GUI: dwa poziomy TabbedPane
+- eksport dowolnego DataGridu do pliku tekstowego
+- koncepcja ,,z poprzedniego miesi¹ca'' i ,,na nastêpny miesi¹c''
+- chronologiczna analiza wp³ywów i wydatków dla ka¿dej kategorii
+- brak raportów
+- listy kategorii i pozycji o zasiêgu globalnym
+- komentarze w planach bud¿etowych
+
+2.6 (2004-01-02)
+- dodane comboBoxy przy wpisywaniu mieszka, kategorii i pozycji
+- usuniêcie bledu zwiazanego z nieaktualizowaniem stanu mieszkow
+
+2.5 (2004-01-01)
+- w raporcie pojawiaja sie wplywy i wydatki codzienne
+- poprawionych mnostwo bledow zwiazanych z wyjatkami wyskakujacymi gdy baza jest pusta
+- poprawione bledy wyswietlania budzetu
+
+2.4 (2003-12-22)
+- kolorowe paski bezpoœredniow dataGridach !
+
+2.3 (2003-12-21)
+- wyœwietlanie sumy stanu mieszkow
+- w komentarzu do budzetu graficzne przedstawienie stosunku stanu wydatkow do planu
+- (prawie) wszystkie potrzebne kolumny ladnie posortowane
+- pierwsza wersja raportu: kolorowe, inteligentne i z mozliwoscia zapisu do pliku
+
+2.2 (2003-12-07)
+- rezygnacja z bud¿etu wielomiesiêcznego (wyrzucenie kalendarza)
+- poprawki w GUI
+
+2.1 (2003-12-06)
+- parê istotnych poprawek dotyczacych GUI
+
+2.0 (2003-12-02)
+- pierwsza dzialajaca wersja
+

@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinBud¿et 3", "WinBud¿et 3.csproj", "{E49F44F7-F44F-4D4B-B767-9BF087DBF57A}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{E49F44F7-F44F-4D4B-B767-9BF087DBF57A}.Debug.ActiveCfg = Debug|.NET
+		{E49F44F7-F44F-4D4B-B767-9BF087DBF57A}.Debug.Build.0 = Debug|.NET
+		{E49F44F7-F44F-4D4B-B767-9BF087DBF57A}.Release.ActiveCfg = Release|.NET
+		{E49F44F7-F44F-4D4B-B767-9BF087DBF57A}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(SolutionItems) = postSolution
+		Item:1 = WinBud¿et 3.vsd
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
